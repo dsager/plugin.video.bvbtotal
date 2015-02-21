@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="bvbtotal" name="BVB Total" version="0.1.0" provider-name="dsager">
+<addon id="plugin.video.bvbtotal" name="BVB Total" version="0.1.0"
+       provider-name="dsager">
 	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="addon.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
 		<summary lang="en">Streams videos from the official BVB Total page.</summary>
 		<description lang="en">BVB Total is the official video portal of the German club Borussia Dortmund.</description>
-		<disclaimer lang="en"></disclaimer>
-		<language>de</language>
-		<platform>all</platform>
 		<license>MIT</license>
+		<language>de</language>
 		<forum>https://github.com/dsager/plugin.video.bvbtotal/issues</forum>
-		<website>https://github.com/dsager/plugin.video.bvbtotal</website>
-		<email>info@sager-software.eu</email>
 		<source>https://github.com/dsager/plugin.video.bvbtotal</source>
+		<email>info@sager-software.eu</email>
 	</extension>
 </addon>
