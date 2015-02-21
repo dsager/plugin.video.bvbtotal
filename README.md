@@ -26,5 +26,6 @@ For most of the content you will need a paid account on [BVB Total](https://www.
 
 ## Acknowledgements
 
-- Fanart Image: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_logo.svg)
-- Icon Image: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borussia_Dortmund_Hannover_96.jpg)
+- [Fanart Image](https://commons.wikimedia.org/wiki/File%3ABorussia_Dortmund_logo.svg)
+- [Icon Image](https://commons.wikimedia.org/wiki/File%3ABorussia_Dortmund_Hannover_96.jpg)
+- [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
