@@ -1,9 +1,16 @@
-# BVB Total - Kodi Plugin
+# BVB TV - Kodi Plugin
+
+**WORK IN PROGRESS**
 
 This is a Plugin for [Kodi (formerly known as XBMC)](http://kodi.tv/).
-BVB Total is the official video portal of the German club Borussia Dortmund.
-This plugin for streams videos from the official BVB Total page.
-For most of the content you will need a paid account on [BVB Total](https://www.bvbtotal.de).
+It looks for videos related to the German football club Borussia Dortmund in a list of different sources.
+
+## Sources
+
+- YouTube Channels:
+  - [Borussia Dortmund](https://www.youtube.com/user/bvb)
+  - [Sport Live Dortmund](https://www.youtube.com/user/SportLiveDortmund)
+- ...
 
 ## Install
 
