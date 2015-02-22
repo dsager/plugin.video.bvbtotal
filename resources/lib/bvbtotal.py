@@ -1,7 +1,4 @@
-import urllib2, sys, os
-
-sys.path.append(os.path.join('resources', 'lib'))
-
+import urllib2
 from bs4 import BeautifulSoup
 
 BASE_URL = 'https://www.bvbtotal.de'
